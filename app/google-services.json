@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506706720807",
+    "firebase_url": "https://sudoku-beee0.firebaseio.com",
+    "project_id": "sudoku-beee0",
+    "storage_bucket": "sudoku-beee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506706720807:android:e489624f0c76e2e5",
+        "android_client_info": {
+          "package_name": "com.example.mayankkathuria.sudoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506706720807-8mqq2lfe5376gs8jo9icllhh38qffuqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayankkathuria.sudoku",
+            "certificate_hash": "630e90a89d536a50c37baa8ca301595d480e950c"
+          }
+        },
+        {
+          "client_id": "506706720807-p4ioaut8ch4jqc7qh20cqiecmugp413q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvinIP3iiGttZkO-WGFPt4sgT9vZPXpeI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506706720807-p4ioaut8ch4jqc7qh20cqiecmugp413q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
